@@ -53,4 +53,4 @@ Run the Jupyter notebook netflix_eda_portfolio.ipynb to explore the analysis ste
 
 
 Author\
-Mian Ahsan Jan\
+Mian Ahsan Jan
