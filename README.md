@@ -28,10 +28,14 @@ The dataset contains information about movies and TV shows available on Netflix,
 
 # How to Use
 Clone the repository:  
-```git clone https://github.com/Ahhssenn/netflix_data.git```
+```bash
+git clone https://github.com/Ahhssenn/netflix_data.git
+```
 
 Install required libraries:\
-`pip install -r requirements.txt`\
+```bash
+pip install -r requirements.txt
+```
 Run the Jupyter notebook netflix_eda_portfolio.ipynb to explore the analysis step-by-step.
 
 # Project Insights
